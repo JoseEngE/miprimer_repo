@@ -13,3 +13,5 @@ una actualizacion mas probar fetch
 pero ademas para tener mensaje del commit chevere
 
 cambios desde mi rama local llamada developer 01 
+
+cambios de dev edtior en la web
